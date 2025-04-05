@@ -1,0 +1,2 @@
+Simple mod to allow the use of two neopixels per gate. Useful if the ERCF v2 is to be mounted in a location where the rear is not visible.
+IMPORTANT: Use with Holder_Strip_Leds_xN, even if you choose to solder individual PCBs together.

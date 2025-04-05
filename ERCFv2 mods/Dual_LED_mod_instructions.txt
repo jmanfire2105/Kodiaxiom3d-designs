@@ -1,2 +1,10 @@
-Simple mod to allow the use of two neopixels per gate. Useful if the ERCF v2 is to be mounted in a location where the rear is not visible.
+Description: Simple mod to allow the use of two neopixels per gate. Useful if the ERCF v2 is to be mounted in a location where the rear is not visible.
+
+Instructions:
+
+1. Load Cover_Body_Dual_xN.stl and two instances of [c]_Cover_Lens_xN.stl into your slicer of choice.
+2. Select one of the two Cover lenses, then increase its position on the x-axis by 5.7625.
+3. Do the same for the other Cover lens, but in the opposite direction.
+4. Merge all three models (right click then 'merge' in superslicer).
+
 IMPORTANT: Use with Holder_Strip_Leds_xN, even if you choose to solder individual PCBs together.

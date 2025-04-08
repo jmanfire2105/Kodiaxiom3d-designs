@@ -1,0 +1,5 @@
+Lead Screw Selector instructions
+
+This is a mod for the ERCF v2, that allows the use of either a stepper with an integrated lead screw, or a stepper connected to an external lead screw, to move the selector with vastly improved accuracy.
+
+The file currently listed is an experimental bolt-on modification for the selector cart, one which has not been tested.
